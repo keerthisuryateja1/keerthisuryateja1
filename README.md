@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Surya Teja — your friendly neighborhood code enthusiast.
 - 👀 I’m interested to learn *how it works* because curiosity makes everything more fun!  
 - 🌱 Currently leveling up in Java and Python
+- 💻 I also know a bit of HTML, CSS, and JavaScript.
 - 💞️ I’m open to collaborating on innovative and impactful projects.
 - 📫 Reach me at keerthisuryateja2005@gmail.com—I’ll respond once I’ve sorted my thoughts (and my code).
 - 😄 Pronouns: he/him
