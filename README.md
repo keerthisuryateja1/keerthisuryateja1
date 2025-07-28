@@ -21,5 +21,3 @@ I enjoy solving problems, understanding how systems work at the core, and consta
 
 ## 🛠 Skills
 C, Java, Python
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Surya_Teja_Keerthi?theme=dark&font=ABeeZee)
